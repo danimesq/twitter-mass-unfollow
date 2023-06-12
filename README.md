@@ -13,8 +13,8 @@ If your Twitter following is a mess and you'd like to start afresh, look no furt
 
 ## Usage
 
-- [Install the extension from Chrome Web Store](https://chrome.google.com/webstore/detail/twitter-mass-unfollow/bidolfkgmbnlnijabkjafdajjpocfhol)
-  - TIP: Pin it for easy access
+- Install the extension [from Chrome Web Store](https://chrome.google.com/webstore/detail/twitter-mass-unfollow/bidolfkgmbnlnijabkjafdajjpocfhol) or [from Mozilla Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/massunfollow/)
+  - TIP for Chrome: Pin it for easy access
 - Visit your [Twitter following page](https://twitter.com/following)
 - Click the **DEMO** button to see the extension in action without unfollowing anyone or
 - Click **ALL** to unfollow all followings or **NOT FOLLOWING** to unfollow accounts you follow that are not following you
@@ -38,6 +38,10 @@ Keep a whitelist of users (Twitter handles/usernames) to not be unfollowed. This
 #### Stop after 1 minute
 
 The extension will stop running (unfollowing users) after 1minute from time started. **If unchecked, it will run until there's no one to unfollow & you'd have to manually "STOP" the process as you see fit** See [NOTE](#note) below
+
+#### Export unfollowed accounts on finished
+
+To keep track of all of the accounts you unfollowed using this addon, and be able to re-follow them later, a list file with all the unfollowed @s will be exported after every stopped/finished process.
 
 #### Reload on finished
 
